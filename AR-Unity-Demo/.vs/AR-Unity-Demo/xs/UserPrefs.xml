@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{EC85B6C2-EF71-E629-8A8E-306031F9FA35}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ObjectPlacer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ObjectPlacer.cs" Line="29" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AR-Unity-Demo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ObjectPlacer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6a3a92b4-d12f-4360-94d9-d9369fca7b59" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
